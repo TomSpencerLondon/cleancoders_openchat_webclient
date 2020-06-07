@@ -46,4 +46,3 @@ e.g. `git push --no-verify`.
 
 You can run `yarn build` to build the project.
 The build artifacts will be stored in the `dist/` directory.
-# cleancoders_openchat_webclient
